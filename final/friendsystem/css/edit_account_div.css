@@ -1,0 +1,60 @@
+
+
+#edit_account_div{
+position:absolute;
+width:498px;
+height:260px;
+margin:-220px 0px 0px 192px;
+border:1px solid black;
+border-radius:4px;
+
+}
+
+.style_form{
+width:380px;
+height:40px;
+border:0px solid black;
+border-radius:4px;
+}
+
+.style_button{
+color:green;
+width:90px;
+height:40px;
+}
+
+
+#edit_accounter_header{
+
+position:absolute; 
+margin:2px 0px 0px 150px; 
+color:white;
+
+}
+#firstnmae_form{
+position:absolute; margin:29px 0px 0px 20px;
+}
+
+
+#secondname_form{
+position:absolute;
+ margin:90px 0px 0px 20px;"
+
+}
+
+
+#email_form{
+
+position:absolute; 
+margin:144px 0px 0px 20px;
+}
+
+
+#password_form{
+
+position:absolute; 
+margin:200px 0px 0px 20px;
+
+}
+
+

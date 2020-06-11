@@ -1,0 +1,96 @@
+
+
+#messages_div{
+background-color:white;
+border: 2px solid #ccc;
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position: relative;
+top:12px;
+margin-left:200px;
+width: 300px;
+border-radius:10px;
+}
+
+
+
+#messages_see{
+background-color:white;
+border: 2px solid #ccc;
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position: relative;
+top:28px;
+margin-left:20px;
+width: 300px;
+border-radius:10px;
+}
+
+
+#message1{
+position:absolute;
+left:500px;
+top:80px;
+
+}
+
+
+#message_title{
+
+position:absolute; 
+left:205px; 
+top:70px;
+
+}
+
+
+#sender_info{
+margin:5px 0px 0px 87px;
+ color:blue;
+
+}
+
+
+#sender_pic{
+
+height:70px;
+ width:70px; 
+ margin:-17px 0px 0px 7px;
+
+}
+
+
+#messsage_text{
+margin:-1px 0px 0px 7px;
+
+}
+
+
+#receive_message{
+position:absolute; 
+left:30px; 
+top:-12px;
+
+}
+
+#receiver_info{
+
+margin:5px 0px 0px 87px; 
+color:blue;
+
+}
+
+#receiver_pic{
+
+height:70px; 
+width:70px; 
+ margin:-17px 0px 0px 7px;
+
+}
+
+
+#receiver_text{
+
+margin:1px 0px 0px 7px;
+
+}

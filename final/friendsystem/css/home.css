@@ -1,0 +1,349 @@
+
+
+
+#header{
+background-color:green;
+ width:1262px; 
+ height:80px;
+
+}
+
+#header_text{
+
+color:white; 
+font-size:33px;
+
+}
+
+#logout_button{
+
+width:100px; 
+color:white; 
+height:33px; 
+top:8px;
+ border-radius:5px; 
+ border:0px; 
+ background-color:#ccc;
+
+}
+
+#people_you_know a:hover{
+     text-decoration:none;
+      color:red;
+	 }
+	 
+	 
+#people_you_know  a{
+     text-decoration:none;
+
+	 }
+
+#posting_div{
+position:absolute;
+width:500px;
+height:140px;
+border:1px solid  #ccc;
+top:105px;
+left:190px;
+background-color:grey;
+}
+
+
+#post_button{
+position:absolute;
+width:70px;
+height:30px;
+margin:97px 0px 0px 427px;
+border:1px solid  #ccc;
+color:green;
+border-radius:5px;
+}
+
+#style_upload_button{
+border:0px;
+width:96px;
+height:28px;
+top:108px;
+border-radius:5px;
+background-color:#cce;
+color:green;
+position:absolute;
+}
+
+
+
+.UIComposer_Box {
+	position:absolute;
+    border:0px solid #DDD;
+    width: 480px;
+}
+#watermark {
+    padding:0px;font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+	width:480px;
+	height:70px;
+	color:#777;
+	background-color:#fff; 
+    overflow: hidden; 
+	margin:6px 0px 0px 10px;"
+	
+
+}
+
+.input {
+    border: 1px solid #A5C2C8;
+    color: #000000;
+    font: bold 16px Helvetiva,Arial,sans-serif;
+    margin: 0 0 15px;
+    padding: 5px;
+    width: 400px;
+}
+
+
+#upload_picture{
+position:absolute;
+width:200px;
+height:150px;
+margin:23px 0px 0px 700px;
+border:1px solid #cce;
+background-color:white;
+border-radius:5px;
+}
+
+#friend_request{
+background-color:white;
+border: 2px solid black;
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position: relative;
+top:31px;
+margin-left: 414px;
+width: 270px;
+border-radius:3px;
+}
+
+ 
+ #my_friends{
+ background-color:white;
+border: 2px solid black;
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position:relative;
+top:7px;
+margin-left: 200px;
+width: 200px;
+border-radius:3px;
+ }
+ 
+ 
+ #people_you_know{
+background-color:white;
+border: 2px solid #ccc;
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position: relative;
+top:210px;
+left:715px;
+width: 180px;
+border-radius:3px;
+}
+
+#button_style{
+color:white;
+background-color:green;  
+border:0px solid #ccc;
+border-radius:3px;
+margin:0px 0px 0px 4px;
+width:60px; 
+height:40px;
+}
+
+#button_style1{
+color:white;
+background-color:blue;  
+border:0px solid #ccc;
+border-radius:3px;
+margin:0px 0px 0px 4px;
+width:60px; 
+height:40px;
+
+}
+
+
+#view_friend{
+position:absolute;
+margin:210px 0px 0px 4px;
+border-radius:3px;
+border:0px;
+width:170px;
+color:green;
+}
+
+.message_link{
+border-radius:3px;
+border:0px;
+width:170px;
+color:green;
+height:30px;
+
+}
+
+#logout{
+position:absolute;
+margin:-37px 0px 0px 700px;
+border-radius:3px;
+border:0px;
+width:202px;
+color:green;
+height:30px;
+}
+
+#view_friend  a{
+ 
+ margin-left:13px;
+  margin-top:10px;
+ text-decoration:none;
+ color:green;
+ }
+ 
+ 
+ //search engine styling
+ #noticeboard{
+       width:780px;
+	   height:35px;
+	   border:1px;
+	   background-color:#2F4F4F;
+	   position:absolute;
+	   left:230px;
+	   top:-17px;
+   }
+   
+   #searchengine{
+       margin-top:2.5px;
+	   margin-left:px;
+	   border:0px;
+	   width:300px;
+	   height:28px;
+	   border-radius:5px;
+	   background-color:#ccc;
+	   position:absolute;
+   }
+   
+   
+   .content{
+		width:380px;
+		margin:0 auto;
+		position:absolute;
+		top:37px;
+		left:190px;
+	}
+	#searchid
+	{
+	    position:absolute;
+		width:480px;
+		border:solid 1px #000;
+		padding:10px;
+		font-size:14px;
+	}
+	#result
+	{
+		position:absolute;
+		width:480px;
+		padding:10px;
+		display:none;
+		margin-top:19px;
+		border-top:1px;
+		overflow:hidden;
+		border:1px #CCC solid;
+		background-color:#cce;
+	}
+	.show
+	{
+		padding:10px; 
+		border-bottom:1px #999 dashed;
+		font-size:15px; 
+		height:50px;
+	}
+	.show:hover
+	{
+		background:#4c66a4;
+		color:#FFF;
+		cursor:pointer;
+	}
+	
+	
+	
+	
+	
+	 
+	 #share_upload_photo{
+	 
+	 margin:80px 0px 0px 10px;
+	 
+	 }
+	 
+	 #profilename{
+position:absolute; 
+margin:4px 0px 0px 8px;
+
+}
+
+.profile_picture{
+position:absolute; 
+margin:28px 0px 0px 4px;
+width:170px;
+ height:170px;
+}
+
+#photo_upload_form{
+position:relative;
+margin:10px 0px 0px 5px;
+}
+
+#upload_file{
+top:10px; 
+left:10px; 
+}
+
+
+#position_link1{
+position:absolute; 
+margin: 320px 0px 0px 4px;
+
+}
+
+#position_link{
+position:absolute; 
+margin: 265px 0px 0px 4px;
+
+}
+
+#position_link3{
+
+position:absolute; 
+color:green; 
+margin: 180px 0px 0px 718px; 
+font-size:20px;
+
+}
+
+
+#people_you_know_image{
+
+position:absolute; 
+margin:24px 0px 0px 70px;
+height:54px;
+width:60px;
+}
+
+.line_1{
+margin:2px 0px 0px 5px;
+width:158; 
+align:left;
+
+}
+
+#post_div{
+
+position:absolute; 
+top:420px;
+}

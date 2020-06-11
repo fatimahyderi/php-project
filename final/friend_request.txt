@@ -1,0 +1,2 @@
+  learn how to create friend request system in php and Javascript.THis friend request script contains sending friend request, accepting or rejecting friend request and viewing or seeing your friends.
+ Visit the link below to follow the tutorial on how to create twitter, youtube, gmail and many more. www.23tutorials.com

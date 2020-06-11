@@ -1,0 +1,184 @@
+
+#comment_Container a:hover{
+     text-decoration:none;
+      color:red;
+	 }
+	 
+	 
+#comment_Container  a{
+     text-decoration:none;
+
+	 }
+
+
+
+#comment_Container {
+background-color:#ccc;
+border: 2px solid #ccc;
+-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+overflow: visible;
+position: relative;
+top:-162px;
+margin-left: 190px;
+width: 500px;
+border-radius:3px;
+}
+
+
+#comment_body {
+padding: 63px 0px 0px 0px !important;
+min-height:40px;
+position: relative;
+border:0px solid grey;
+background-color:white;
+font-size:20px;
+}
+
+#add_comment_field{
+position:absolute;
+margin:10px 0px 0px 9px;
+width:360px;
+height:28px;
+}
+
+#comment_button{
+position:absolute;
+margin:11px 0px 0px 379px;
+width:60px;
+height:32px;
+border:0px solid #ccc;
+background-color:blue;
+color:white;
+}
+
+
+#post_user_photo{
+ height:70px; 
+ width:70px;
+position:absolute; 
+margin:-56px 0px 0px 3px;
+}
+
+
+#post_text_decoration{
+
+color:blue; 
+position:absolute; 
+margin:-61px 0px 0px 80px; 
+font-size:19px;
+
+}
+
+#styling_like_review{
+color:grey; 
+font-size:12px; 
+margin:-50px 0px 0px 375px;
+
+}
+
+#styling_unlike_review{
+color:grey; 
+font-size:12px;
+ margin:-17px 0px 0px 430px;
+
+}
+
+#styling_post_text{
+
+color:#000000; 
+margin:-36px 0px 0px 80px; 
+
+}
+
+#styling_like_button{
+
+color:blue; 
+font-size:13px;
+ margin:72px 0px 0px 13px; 
+ position:absolute;
+}
+
+#styling_unlike_button{
+
+color:blue; 
+font-size:13px; 
+margin:72px 0px 0px 37px; 
+position:absolute;
+}
+
+#styling_post_photo{
+height:308px;
+width:395px;
+left:80px; 
+top:-37px; 
+position:relative; 
+border:1px solid black;
+
+}
+
+#styling_post_like_link{
+
+color:blue; 
+font-size:13px; 
+margin:289px 0px 0px -315px; 
+position:absolute;
+
+}
+
+
+#styling_post_unlike_link{
+
+color:blue; 
+font-size:13px; 
+margin:289px 0px 0px -275px;
+ position:absolute;
+
+}
+
+#styling_post_like_preview{
+color:grey; 
+font-size:12px; 
+margin:-373px 0px 0px 375px; 
+position:absolute;
+
+}
+
+
+#styling_post_unlike_preview{
+
+color:grey; 
+font-size:12px; 
+margin:-373px 0px 0px 430px; 
+position:absolute;
+
+}
+
+#user_comment_photo{
+margin:13px 0px 0px 3px;
+border:1px solid black;
+height:40px;
+ width:40px;
+}
+
+
+#user_comment_info{
+color:white; 
+margin:-45px 0px 0px 55px; 
+font-size:20px; 
+
+}
+
+#comment_text{
+position:relative; 
+overflow: visible; 
+margin:5px 0px 0px 57px;
+
+}
+
+
+#user_info{
+height:40px; 
+width:40px; 
+margin:8px 0px 0px 3px;
+
+}

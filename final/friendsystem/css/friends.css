@@ -1,0 +1,59 @@
+
+
+
+.myfriend_div{
+background-color:white;
+position:relative;
+width:300px;
+border:1px solid black;
+left:-49px;
+   }
+   
+   
+  .myfriend_div1{
+background-color:white;
+position:relative;
+width:300px;
+border:1px solid red;
+left:-49px;
+   }
+   
+   #myfriend_div{
+background-color:white;
+position:relative;
+width:300px;
+border:1px solid red;
+left:-49px;
+   }
+  
+   .myfriend{
+   
+   position:relative;
+   border:1px solid blue;
+   width:100px;
+   left:4px;
+   top:-5px;
+   background-color:green;
+   border-radius:5px;
+   }
+   
+   
+   #friend_div{
+   border:0px solid blue;
+   position:absolute;
+   left:260px;
+   top:120px;
+    border-radius:5px;
+   
+   }
+   
+   
+   #friend_request_div{
+   
+   border:0px solid blue;
+   position:absolute;
+   left:980px;
+   top:170px;
+    border-radius:5px;
+   
+   }
